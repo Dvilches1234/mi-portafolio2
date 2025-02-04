@@ -20,7 +20,7 @@ const GameInfo = ({gameUrl, videoUrl, gameTitle, description}) => {
     }
     return (
 
-        <Box display="flex" justifyContent="center" alignItems="center"
+        <Box display="flex" justifyContent="left" 
             sx={{
 
                 width: "80%",
@@ -31,8 +31,12 @@ const GameInfo = ({gameUrl, videoUrl, gameTitle, description}) => {
             }}
         >
             <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
-                <Grid size={12}>
-                    <Typography variant="h3">
+                <Grid size={12} sx={{
+                    justifyContent:"left",
+                    alignItems: "start"
+
+                }}>
+                    <Typography variant="h3" align="left">
                         {gameTitle}
                     </Typography>
                 </Grid>
@@ -69,14 +73,17 @@ const GameInfo = ({gameUrl, videoUrl, gameTitle, description}) => {
                             <Grid size={6}>
                                 <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
                                     <Grid size={12}>
-                                        <Button variant="contained" onClick={goToUrl}>
+                                        <Typography align="left" sx={{whiteSpace:"pre-line"}}>
+                                            {description}
+                                        </Typography>
+                                    </Grid>
+                                    <Grid size={12} sx={{display: "flex", justifyContent:"flex-start"}}>
+                                        <Button variant="contained" align="left" onClick={goToUrl}>
                                             <PlayArrowIcon />
                                             Play the game
                                         </Button>
                                     </Grid>
-                                    <Grid size={12}>
-                                        {description}
-                                    </Grid>
+                                   
                                 </Grid>
                             </Grid>
                         </Grid>
