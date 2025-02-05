@@ -3,21 +3,21 @@
         "id" :  0,
         "gameTitle": "Ghost from the past",
         "gameUrl":"https://srdenso.itch.io/ghosts-from-the-past",
-        "videoUrl":"https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley",
-        "description":"Join our protagonist in his adventure to recover his memory.\n\n This game was made for the Halloween Game Jam 2024. The theme is haunting Memories.\n\n In this game we impersonate a man with no memories in a strange places. His memory is fragmented in several prisms he have to find. At the same time, there are evil spirits guarding those prisms who try to catch us. So  in a way he is haunting his memories while the guardians of his memories are trying to catch him"
+        "videoUrl":"https://youtu.be/PFICCq2xTAw",
+        "description": "A game i made for the Halloween Game Jam 2024 under the theme haunting memories. Is a platformer about someone chasing the fragments of the memory. \n All the art, sound and programming were made by me and the game ranked 10th place in the jam."
     },
     {
         "id" :  1,
-        "gameTitle": "Ghost from the past",
-        "gameUrl":"https://srdenso.itch.io/ghosts-from-the-past",
-        "videoUrl":"https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley",
-        "description":"Join our protagonist in his adventure to recover his memory.\n\n This game was made for the Halloween Game Jam 2024. The theme is haunting Memories.\n\n In this game we impersonate a man with no memories in a strange places. His memory is fragmented in several prisms he have to find. At the same time, there are evil spirits guarding those prisms who try to catch us. So  in a way he is haunting his memories while the guardians of his memories are trying to catch him"
+        "gameTitle": "Thief Mouse",
+        "gameUrl":"https://srdenso.itch.io/thief-mouse",
+        "videoUrl":"https://youtu.be/UKhiiVdTtlE",
+        "description":"This is another game i made for a jam in 2021. It's about a little mouse who have to get all the cheesse without the cats guarding the house noticing. In this case, i focused in the programming and got help with the art and music."
     },
     {
         "id" :  2,
-        "gameTitle": "Ghost from the past",
-        "gameUrl":"https://srdenso.itch.io/ghosts-from-the-past",
-        "videoUrl":"https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley",
-        "description":"Join our protagonist in his adventure to recover his memory.\n\n This game was made for the Halloween Game Jam 2024. The theme is haunting Memories.\n\n In this game we impersonate a man with no memories in a strange places. His memory is fragmented in several prisms he have to find. At the same time, there are evil spirits guarding those prisms who try to catch us. So  in a way he is haunting his memories while the guardians of his memories are trying to catch him"
+        "gameTitle": "Fast Ball",
+        "gameUrl":"https://srdenso.itch.io/fastball",
+        "videoUrl":"https://youtu.be/8YkILe7zfF4",
+        "description":"I made this game for the 20 second game jam in 2022. As the name of the jam suggest, this game only last 20 seconds, so try to score the most points and keep going up in the leaderborad!"
     }
 ]
