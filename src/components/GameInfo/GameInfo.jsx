@@ -3,6 +3,8 @@ import Grid from "@mui/material/Grid2"
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import PlayArrowIcon from '@mui/icons-material/PlayArrow';
 import ReactPlayer from "react-player";
+
+import { useMediaQuery } from "@mui/material";
 //import dynamic from "next/dynamic";
 //const ReactPlayer = dynamic(() => import("react-player"), { ssr: false });
 
@@ -14,10 +16,17 @@ theme.typography.h2 = {
     color: 'white',
 }
 
+
+
 const GameInfo = ({gameUrl, videoUrl, gameTitle, description}) => {    
     const goToUrl = () => {
         window.open(gameUrl, "_blank", "noopener,noreferrer")
     }
+    const isMobile = useMediaQuery("(max-width:600px)");
+    const desktopHeight = "500px"
+    const mobileHeight = "200px"
+
+    const trueHeight = isMobile?mobileHeight: desktopHeight
     return (
 
         <Box display="flex" justifyContent="left" 
@@ -62,15 +71,15 @@ const GameInfo = ({gameUrl, videoUrl, gameTitle, description}) => {
                             marginTop: "2%",
                         }}>
                         <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
-                            <Grid size={6}>
+                            <Grid size={{ xs:12, md:6}}>
                                 <ReactPlayer
                                     url={videoUrl}
                                     controls={true}
                                     width="100%"
-                                    height="500px"
+                                    height={trueHeight}
                                 />
                             </Grid>
-                            <Grid size={6}>
+                            <Grid size={{ xs:12, md:6}}>
                                 <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
                                     <Grid size={12}>
                                         <Typography align="left" sx={{whiteSpace:"pre-line"}}>
