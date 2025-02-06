@@ -7,6 +7,13 @@
         "description": "A game i made for the Halloween Game Jam 2024 under the theme haunting memories. Is a platformer about someone chasing the fragments of the memory. \n All the art, sound and programming were made by me and the game ranked 10th place in the jam."
     },
     {
+        "id" :  4,
+        "gameTitle": "Space Adventure",
+        "gameUrl":"https://srdenso.itch.io/spaceadventure",
+        "videoUrl":"https://youtube.com/shorts/1FOKKkj5O9o?feature=share",
+        "description":"I made this game for a course of game development i took. Basically it's sort of a bullet hell. \n The fun part was programming the behaviour of the enemy ships."
+    },
+    {
         "id" :  1,
         "gameTitle": "Thief Mouse",
         "gameUrl":"https://srdenso.itch.io/thief-mouse",
@@ -26,13 +33,6 @@
         "gameUrl":"https://srdenso.itch.io/space-duel",
         "videoUrl":"https://youtu.be/PRdUUaUmjvk",
         "description":"This one is a little pation project i have in the making. It was inspired on pen and paper game i played as a kid.\n The main idea is that each player puts their ships without the other seeing and then they have to try to guess the location and shoot the other's."
-    },
-    {
-        "id" :  4,
-        "gameTitle": "Space Adventure",
-        "gameUrl":"https://srdenso.itch.io/spaceadventure",
-        "videoUrl":"https://youtube.com/shorts/1FOKKkj5O9o?feature=share",
-        "description":"I made this game for a course of game development i took. Basically it's sort of a bullet hell. \n The fun part was programming the behaviour of the enemy ships."
     }
     
 ]
