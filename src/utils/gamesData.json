@@ -19,5 +19,20 @@
         "gameUrl":"https://srdenso.itch.io/fastball",
         "videoUrl":"https://youtu.be/8YkILe7zfF4",
         "description":"I made this game for the 20 second game jam in 2022. As the name of the jam suggest, this game only last 20 seconds, so try to score the most points and keep going up in the leaderborad!"
+    },
+    {
+        "id" :  3,
+        "gameTitle": "Space Duel",
+        "gameUrl":"https://srdenso.itch.io/space-duel",
+        "videoUrl":"https://youtu.be/PRdUUaUmjvk",
+        "description":"This one is a little pation project i have in the making. It was inspired on pen and paper game i played as a kid.\n The main idea is that each player puts their ships without the other seeing and then they have to try to guess the location and shoot the other's."
+    },
+    {
+        "id" :  4,
+        "gameTitle": "Space Adventure",
+        "gameUrl":"https://srdenso.itch.io/spaceadventure",
+        "videoUrl":"https://youtube.com/shorts/1FOKKkj5O9o?feature=share",
+        "description":"I made this game for a course of game development i took. Basically it's sort of a bullet hell. \n The fun part was programming the behaviour of the enemy ships."
     }
+    
 ]

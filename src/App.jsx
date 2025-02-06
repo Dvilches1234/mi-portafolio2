@@ -33,15 +33,6 @@ function App() {
             
               </Grid>        
             ))}
-            <Grid size={12}>
-                <GameInfo
-                gameTitle={"game.gameTitle"}
-                gameUrl={"https://srdenso.itch.io/ghosts-from-the-past"}
-                videoUrl={"https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"}
-                description={description}
-              />          
-            
-              </Grid> 
           </Grid>
         </Grid>
       </Grid>
