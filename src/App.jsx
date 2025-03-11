@@ -12,6 +12,7 @@ import {exportGameData} from "./utils/utils"
 
 
 function App() {  
+  const gameData = exportGameData()
   return (
     <Box  display="flex" justifyContent="center" alignItems="center">
       <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>

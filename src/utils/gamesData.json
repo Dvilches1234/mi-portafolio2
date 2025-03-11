@@ -38,9 +38,9 @@
     {
         "id" :  4,
         "gameTitle": "Unnamed game",
-        "gameUrl":"https://srdenso.itch.io/space-duel",
+        "gameUrl":"",
         "videoUrl":"https://youtu.be/6RbIRfA-6q8",
-        "description":"This is a personal project I started working on a little while ago. It's a fairly standard action-adventure game, and I started it to challenge myself in areas I haven't worked in much, like 3D modeling and shaders.\n The second half of the video showcases a shader I made for the character's sword. The idea is that these are magic swords, so I created a noise pattern to give them an ethereal look."
+        "description":"This is a personal project I started working on a little while ago. It's a fairly standard action-adventure game, and I started it to challenge myself in areas I haven't worked in much, like 3D modeling and shaders.\n The second half of the video showcases a shader I made for the character's sword. The idea is that these are magic swords, so I created a noise pattern to give them an ethereal look.\n This game is not published yet."
     }
     
 ]
