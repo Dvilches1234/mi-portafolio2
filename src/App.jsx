@@ -11,9 +11,7 @@ import PersonalDescription from './components/PersonalDescription/PersonalDescri
 import {exportGameData} from "./utils/utils"
 
 
-function App() {
-  const gameData = exportGameData()
-  const description = `Join our protagonist in his adventure to recover his memory.\n\n This game was made for the Halloween Game Jam 2024. The theme is haunting Memories.\n\n In this game we impersonate a man with no memories in a strange places. His memory is fragmented in several prisms he have to find. At the same time, there are evil spirits guarding those prisms who try to catch us. So  in a way he is haunting his memories while the guardians of his memories are trying to catch him`
+function App() {  
   return (
     <Box  display="flex" justifyContent="center" alignItems="center">
       <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>

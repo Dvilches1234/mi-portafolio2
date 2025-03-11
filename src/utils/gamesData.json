@@ -4,21 +4,21 @@
         "gameTitle": "Ghost from the past",
         "gameUrl":"https://srdenso.itch.io/ghosts-from-the-past",
         "videoUrl":"https://youtu.be/PFICCq2xTAw",
-        "description": "A game i made for the Halloween Game Jam 2024 under the theme haunting memories. Is a platformer about someone chasing the fragments of the memory. \n All the art, sound and programming were made by me and the game ranked 10th place in the jam."
+        "description": "A game I made for the Halloween Game Jam 2024 under the theme \"Haunting Memories\". It is a platformer about someone chasing the fragments of the memory. \n I created all the art, sound, and programming, and the game ranked 10th in the jam."
     },
     {
         "id" :  4,
         "gameTitle": "Space Adventure",
         "gameUrl":"https://srdenso.itch.io/spaceadventure",
         "videoUrl":"https://youtube.com/shorts/1FOKKkj5O9o?feature=share",
-        "description":"I made this game for a course of game development i took. Basically it's sort of a bullet hell. \n The fun part was programming the behaviour of the enemy ships."
+        "description":"I made this game for a game development course I took. Basically, it's a sort of bullet hell. \n The fun part was programming the behavior of the enemy ships."
     },
     {
         "id" :  1,
         "gameTitle": "Thief Mouse",
         "gameUrl":"https://srdenso.itch.io/thief-mouse",
         "videoUrl":"https://youtu.be/UKhiiVdTtlE",
-        "description":"This is another game i made for a jam in 2021. It's about a little mouse who have to get all the cheesse without the cats guarding the house noticing. In this case, i focused in the programming and got help with the art and music."
+        "description":"This is another game I made for a jam in 2021. It's about a little mouse who has to collect all the cheese without the cats guarding the house noticing. In this case, I focused on programming and got help with the art and music."
     },
     {
         "id" :  2,

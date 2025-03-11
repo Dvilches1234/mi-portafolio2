@@ -40,9 +40,8 @@ const PersonalDescription =() => {
             </Grid>
             <Grid size={12}>
                 <Typography  sx={{whiteSpace:"pre-line"}}>
-                {`Hi, I'm Diego Vilches and I'm a programmer who graduated from Universidad Diego Portales in Chile. I love to play videogames and learn about them. I have been almost 5 years making videogames 
-                for myself participating in gamejams and some personal projects. \n
-                I work mostly in Unity and i've made 2D and 3D games for pc and android. I'm very pationate for what i do. I hope you enjoy what you see here and maybe we can work together soon.`}
+                {`Hi, I'm Diego Vilches, a programmer who graduated from Universidad Diego Portales in Chile. I love playing video games and learning about them. I have been making video games for almost five years, participating in game jams and working on personal projects. \n
+                I mainly work with Unity and have developed both 2D and 3D games for PC and Android. I'm very passionate about what I do. I hope you enjoy what you see here, and maybe we can work together soon!`}
                 </Typography>
                 
             </Grid>
